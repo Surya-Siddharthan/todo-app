@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74282131313",
+    "firebase_url": "https://test-1-e1d7f.firebaseio.com",
+    "project_id": "test-1-e1d7f",
+    "storage_bucket": "test-1-e1d7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74282131313:android:f23a0e03d4586dc42120d0",
+        "android_client_info": {
+          "package_name": "com.suryatestapp.test_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74282131313-22irguhk6lu2rqakt2m83ghgofuela0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW-PqP-HvvvjHZ-sC6w6pBCgYj12JOQ9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74282131313-22irguhk6lu2rqakt2m83ghgofuela0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
